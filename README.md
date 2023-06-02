@@ -14,11 +14,11 @@
 
 - 🌱 I’m currently learning **Java, C++, and C**
 
-- 💻 Software engineering major at Kennesaw State University.
+- 💻 Software engineering major.
 
 - 👨‍💻 All of my projects are available at [https://ryanonor.me/](https://ryanonor.me/)
 
-- 💬 Ask me about **Python, NodeJS, DiscordPY**
+- 💬 Ask me about **Python, C++, C, or Java**
 
 - 📫 How to reach me **ryan@ryanonor.me**
 
